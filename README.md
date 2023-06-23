@@ -101,3 +101,4 @@ Read in our wiki - https://github.com/kirilkirkov/Shopping-Cart-Solution-CodeIgn
 ### Server Requirements
 - PHP version 5.6 or newer is recommended.
 <p>It should work on 5.3.7 as well, but we strongly advise you NOT to run such old versions of PHP, because of potential security and performance issues, as well as missing features.</p>
+#ECOMMERSE_WEBSITE
