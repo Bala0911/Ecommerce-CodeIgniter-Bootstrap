@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => 'toor',
-	'database' => 'shop',
+	'hostname' => 'sonarqube.cl2hqh8vtfn7.us-east-2.rds.amazonaws.com',
+	'username' => 'admin',
+	'password' => 'Sonar@123',
+	'database' => 'mysql',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
